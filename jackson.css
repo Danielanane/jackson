@@ -1,0 +1,144 @@
+.anane{
+    width: 90%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.anane ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+.anane ul li a{
+     text-decoration: none;
+     color: black;
+     font-weight: bold;
+
+}
+.martial p{
+    font-size: 30px;
+    
+}
+.martial h2{
+text-align: center;
+}
+    
+
+
+.martial{
+    width: 800px;
+    height: 2500px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey;
+}
+ 
+    
+
+.martial input[ type="button"]
+{
+    height: 40px;
+    background:blue;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    border-radius:35px;
+    width: 150px;
+    margin-left: 650px;
+
+    
+}  
+.rashford{
+    width: 800px;
+    height: 1700px;
+    padding: 20px;
+    margin: 100px auto;
+    box-shadow: 0px 0px 10px 2px grey
+}
+.rashford p{
+    font-size:30px ;
+    
+}
+.rashford h1{
+    
+}
+.rashford input[ type="button"]
+{
+    height: 40px;
+    background:blue;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    border-radius:35px;
+    width: 150px;
+    margin-left: 650px;
+} 
+.water img {
+    margin-left: 500px;
+}  
+.water h1{
+    
+    
+    color: blue;
+    
+} 
+.water p{
+    
+    font-size: 30px;
+    color: lightblue;
+    
+}
+.air img{
+    margin-left: 500px;
+
+}
+.air h1{
+    margin-left: 400px;
+    
+}
+.air h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    
+    
+}
+.air p{
+    text-align: center;
+    font-size: 30px;
+    color: lightblue;
+}
+.book img{
+    margin-left: 500px;
+
+}
+.book h1{
+    margin-left: 400px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: blue;
+}
+.book h2{
+    font-size: 30px;
+    font-weight:bold ;
+    
+}
+.book p{
+    text-align: center;
+    font-size: 30px;
+    color: lightblue;
+}
+
+
+
+
+
+
+
+
+
+    
+    
